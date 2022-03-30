@@ -1,7 +1,7 @@
 export const get = async (request) => {
 	const { name } = request.params;
 
-	const apiUrl = 'https://webhook.site/bfdd2cfe-78be-483e-ae2e-e3e20ddaaff6';
+	const apiUrl = 'https://webhook.site/2f389de5-60ac-40f9-989d-b5f9f31fd6c1';
 	const response = await fetch(apiUrl, {
 		method: 'POST',
 		headers: {
