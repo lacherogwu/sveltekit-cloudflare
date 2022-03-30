@@ -17,7 +17,7 @@
 </script>
 
 <svelte:head>
-	<title>Saying Hello to everyone! 🙋‍♂️</title>
+	<title>Saying Hello to everyone! 🙋‍♂️ v2</title>
 </svelte:head>
 <h1>Hello {name}</h1>
 <button on:click={handleClick}>Click Me</button>
